@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smartHome/static/css/main.22a37aa0.chunk.css",
+    "main.js": "/smartHome/static/js/main.2d6c453e.chunk.js",
+    "main.js.map": "/smartHome/static/js/main.2d6c453e.chunk.js.map",
+    "runtime-main.js": "/smartHome/static/js/runtime-main.ed08de80.js",
+    "runtime-main.js.map": "/smartHome/static/js/runtime-main.ed08de80.js.map",
+    "static/css/2.67123b20.chunk.css": "/smartHome/static/css/2.67123b20.chunk.css",
+    "static/js/2.295fc6ee.chunk.js": "/smartHome/static/js/2.295fc6ee.chunk.js",
+    "static/js/2.295fc6ee.chunk.js.map": "/smartHome/static/js/2.295fc6ee.chunk.js.map",
+    "index.html": "/smartHome/index.html",
+    "precache-manifest.1a36dbfb365afd885b89c914a09b21a8.js": "/smartHome/precache-manifest.1a36dbfb365afd885b89c914a09b21a8.js",
+    "service-worker.js": "/smartHome/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/smartHome/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.22a37aa0.chunk.css.map": "/smartHome/static/css/main.22a37aa0.chunk.css.map",
+    "static/js/2.295fc6ee.chunk.js.LICENSE": "/smartHome/static/js/2.295fc6ee.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed08de80.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.295fc6ee.chunk.js",
+    "static/css/main.22a37aa0.chunk.css",
+    "static/js/main.2d6c453e.chunk.js"
+  ]
+}
